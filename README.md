@@ -17,7 +17,7 @@ Black-Tool v4.0.0
 -->
 <link rel='icon' href='https://github.com/mrprogrammer2938/Black-Tool/blob/master/Scr/Black_Tool_Logo.png'>
 <center>
-<a href="https://mrprogrammer2938.github.io/Black-Tool" target="_blank">
+<a href="https://black-software-com.github.io/Black-Tool" target="_blank">
   <img src="https://github.com/mrprogrammer2938/Black-Tool/blob/master/Scr/Black_Tool_Logo.png" width="350" alt="Black-Tool logo">
   </a>
 </center><br>
@@ -138,11 +138,14 @@ git clone https://github.com/black-software-Com/black-tool
 
 cd Black-Tool
 
-python3 install.py
-
-python3 hack --start
+bash install.sh
 </pre>
 <br>
+
+*Run*
+``` sh
+python black --start
+```
 
 ### Argument Help
 ``` txt 
