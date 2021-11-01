@@ -120,6 +120,11 @@ Link | Version | Suport
 - [PTool](https://github.com/mrprogrammer2938/PTool)
 - [onex](https://github.com/rajkumardusad/onex)
 - [Kit Hack](https://github.com/AdrMXR/KitHack)
+- [Shodan-Eye](https://github.com/BullsEye0/shodan-eye)
+- [Sn1per](https://github.com/1N3/Sn1per)
+- [XXH](https://https://github.com/xxh/xxh)
+- [Nettacker](https://github.com/OWASP/Nettacke)
+- [Katana](https://github.com/TebbaaX/Katana)
 
 #### DDos Attack
 - [DDos-Attack](https://github.com/mrprogrammer2938/DDos-Attack)
