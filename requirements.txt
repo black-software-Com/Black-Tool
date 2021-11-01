@@ -1,0 +1,13 @@
+pyttsx3
+requests==2.26.0
+colorama==0.0.4
+cryptography
+pybluez
+googlesearch-python
+ipapi
+playsound
+deep_translator
+tk-tools
+tkinterweb
+ttkbootstrap
+PIL
