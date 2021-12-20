@@ -71,14 +71,14 @@ Link | Version | Suport
 
 ## Black-Tool Menu
 1. [Web Hacking](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#web-hacking)
-2. Cam Hacker
-3. Phishing
-4. Wirless Attack
-5. Information Gathering
-6. Social Engineer
-7. Hacking Tools
-8. DDos Attack
-9. Sniffing Spoofing
+2. [Cam Hacker](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#Cam-Hacker)
+3. [Phishing](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#phishing)
+4. [Wirless Attack](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#wirless-attack)
+5. [Information Gathering](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#Information-Grathering)
+6. [Social Engineer](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#social-engineer)
+7. [Hacking Tools](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#hacking-tools)
+8. [DDos Attack](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#ddos-attack)
+9. [Sniffing Spoofing](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#sniffing-spoofing)
 
 ### Black-Tool Tools
 <br>
