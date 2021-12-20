@@ -70,7 +70,7 @@ Link | Version | Suport
 
 
 ## Black-Tool Menu
-1. Web Hacking
+1. [Web Hacking](https://github.com/black-software-Com/Black-Tool/blob/master/README.md#web-hacking)
 2. Cam Hacker
 3. Phishing
 4. Wirless Attack
