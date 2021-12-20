@@ -4,7 +4,7 @@ Developer: Sina Meysami
 Github-Dev: https://github.com/mrprogrammer2938
 Website: https://blacksoftware.ir
 Github: https://github.com/black-software-com
-Instagram: https://instagram.com/mrprogrammer2938
+Instagram: https://instagram.com/black_software_company
 Pinterest: https://www.pinterest.com/mrprogrammer2938
 
 -->
@@ -18,11 +18,11 @@ Pinterest: https://www.pinterest.com/mrprogrammer2938
 Black-Tool v5.0.0
 -->
 <link rel='icon' href='https://github.com/black-software-com/Black-Tool/blob/master/Scr/Black_Tool_Logo.png'>
-<center>
+<p style="text-align:center;">
 <a href="https://black-software-com.github.io/Black-Tool" target="_blank">
-  <img src="https://github.com/black-software-com/Black-Tool/blob/master/Scr/Black_Tool_Logo.png" width="350" alt="Black-Tool logo">
-  </a>
-</center><br>
+  <img src="https://github.com/black-software-com/Black-Tool/blob/master/Scr/Black_Tool_Logo.png" width="350" title="Black-Tool Logo" alt="Black-Tool logo">
+  </a></p>
+<br>
 
 
 ```Black-Tool v5.0.0 (New)```
