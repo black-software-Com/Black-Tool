@@ -9,7 +9,6 @@
 if [[ "$(id -u)" -ne 0 ]]; then
   echo "Please, Run This Programm as Root!"
   exit 1
-fi 
 function ext() {
   clear
   echo "Exiting..."
